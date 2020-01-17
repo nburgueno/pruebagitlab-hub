@@ -1,0 +1,50 @@
+body {
+	background-color: #85a099;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+
+.titulo {
+	font-family: verdana, sans-serif;
+	color: #009900;
+	font-size: 13px;
+	font-weight: bold;
+	word-spacing: 1.4pt;
+}
+
+.subtitulo {
+font-family: verdana, sans-serif;
+color: #5E5E5E;
+font-size: 12px;
+font-weight: bold;
+word-spacing: 1.4pt;
+}
+
+.texto {
+font-family: verdana, sans-serif;
+color: #5E5E5E;
+font-size: 12px;
+word-spacing: 1.4pt;
+}
+
+.direccion {
+	font-family: verdana, sans-serif;
+	color: #ffffff;
+	font-size: 12px;
+	word-spacing: 1.4pt;
+	text-align:center
+}
+.direccion:hover {font-family: verdana, sans-serif;
+	color: #ffffff;
+	font-size: 12px;
+	word-spacing: 1.4pt;
+	text-align:center;
+	text-decoration:none}
+
+a {text-decoration: none}
+a:hover {text-decoration: underline}
+a:active{text-decoration: underline}
+.Estilo1 {font-size: 10px; font-style: normal; font-variant: normal; color: #666666; line-height: normal; letter-spacing: normal; white-space: normal; word-spacing: normal; font-family: Verdana, Arial, Helvetica, sans-serif;}
+.style16 {color: #5E5E5E; font-weight: bold; word-spacing: 1.4pt; font-family: verdana, sans-serif;}
